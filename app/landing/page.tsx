@@ -21,7 +21,7 @@ export default function LandingPage() {
         </div>
 
         <div style={{ display: "flex", gap: "1rem", alignItems: "center" }}>
-          <Link href="/" style={{ textDecoration: "none" }}>
+          <Link href="/landing" style={{ textDecoration: "none" }}>
             <button
               className="theme-button"
               style={{ padding: "0.5rem 1rem", fontSize: "0.9rem" }}
